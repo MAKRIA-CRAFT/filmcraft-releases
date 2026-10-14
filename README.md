@@ -1,2 +1,2 @@
 # filmcraft-releases
-Mak Film — downloads (installers only)
+My Cut — downloads (installers only)
